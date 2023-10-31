@@ -5,9 +5,6 @@
 - 👩‍💻 Estudante na área de programação Dev.Front-end.
 - 🎀 Cursando Dev.Front-end no curso Descodificadas.
 - 💻 Cursando Tecnologia da Informação na UNIVESP.
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-
 <div style="display: inline_block"><br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
