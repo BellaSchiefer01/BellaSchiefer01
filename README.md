@@ -16,7 +16,7 @@
 </div>
 <div>
  <a href="https:www.linkedin.com/in/isabelle-schiefer-b3556b1a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+![Snake animation](https://github.com/Fe-grr/Fe-grr/blob/output/github-contribution-grid-snake.svg)
  </div>
 <a href="https://github.com/BellaSchiefer01"> <br></br>
     <img height="170em"
