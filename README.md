@@ -1,7 +1,7 @@
 ![capa.](https://raw.githubusercontent.com/BellaSchiefer01/BellaSchiefer01/refs/heads/main/images/Banner%20-%20Readme.png)
 
 <br></br>
-# Olá, meu nome é Isabelle Schiefer, sejá bem vindo ao meu perfil! :tulip:
+# Olá, meu nome é Isabelle Schiefer, seja bem vindo ao meu perfil! :tulip:
 <br></br>
 
 ### 🚀 Em Busca da Primeira Oportunidade
