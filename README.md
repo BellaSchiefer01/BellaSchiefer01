@@ -1,4 +1,4 @@
-![capa.](https://raw.githubusercontent.com/BellaSchiefer01/Hello-word/refs/heads/main/images/Banner.png?token=GHSAT0AAAAAADEYSJTIV42SWU655VDCSGI42C3EXPQ)
+![capa.](https://raw.githubusercontent.com/BellaSchiefer01/BellaSchiefer01/refs/heads/main/images/Banner%20-%20Readme.png)
 
 <br></br>
 # Olá, meu nome é Isabelle Schiefer, sejá bem vindo ao meu perfil! :tulip:
