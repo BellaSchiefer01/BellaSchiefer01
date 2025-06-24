@@ -1,23 +1,23 @@
-<img src = "gif1.gif" width = "325px" align = "right">
+![capa.](https://raw.githubusercontent.com/BellaSchiefer01/Hello-word/refs/heads/main/images/Banner.png?token=GHSAT0AAAAAADEYSJTIV42SWU655VDCSGI42C3EXPQ)
 
-### Olá meu nome é Isabelle, seja bem-vindo(a) ao meu perfil 
+<br></br>
+# Olá, meu nome é Isabelle Schiefer, sejá bem vindo ao meu perfil! :tulip:
+<br></br>
 
-- 👩‍💻 Estudante na área de programação Dev.Front-end.
-- 🎀 Cursando Dev.Front-end no curso Descodificadas.
-- 💻 Cursando Tecnologia da Informação na UNIVESP.
-<div style="display: inline_block"><br>
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
- <br></br>
-</div>
-<div>
- <a href="https:www.linkedin.com/in/isabelle-schiefer-b3556b1a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### 🚀 Em Busca da Primeira Oportunidade
 
-![Snake animation](https://github.com/Fe-grr/Fe-grr/blob/output/github-contribution-grid-snake.svg)
- 
+Estou ativamente buscando minha **primeira oportunidade como Desenvolvedora Front-end Júnior**. Mesmo sem experiência profissional formal na área, possuo forte dedicação aos estudos e empenho para crescer e contribuir em um ambiente de equipe.
+
+<br></br>
+💻 Desenvolvedora Front-end em formação e entusiasta de interfaces intuitivas.
+
+🎓 Formada em Tecnologia da Informação pela UNIVESP.
+
+📚 Interesse em: Desenvolvimento web/ UX/UI / frameworks.
+
+<br></br>
+<a href="https:www.linkedin.com/in/isabelle-schiefer-b3556b1a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
  </div>
 <a href="https://github.com/BellaSchiefer01"> <br></br>
     <img height="170em"
@@ -25,6 +25,44 @@
     <img height="170em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaSchiefer01&layout=compact&langs_count=7&theme=omni"/>
 <div>
-  
+
+
+
+
+<br></br>
+###  💗 Interesses Fora do Código
+
+Quando não estou codificando ou imersa no universo da programação, gosto de explorar outras paixões que me ajudam a manter a mente ativa e criativa:
+
+* **Aprender Coisas Novas:** Sou uma entusiasta do aprendizado contínuo, seja desvendando um novo idioma ou explorando diferentes culturas. 🤩
+* **Leitura:** Adoro mergulhar em livros que me transportam para outros mundos ou me ensinam algo novo. 📘
+* **Desenho:** É uma forma de expressar a criatividade e desenvolver o olhar para detalhes. ✏️
+* **Música:** Gosto de ouvir e aprender sobre diversos estilos musicais, o que me conecta com diferentes formas de arte, tenho preferência por rock, músicas antigas, country e clássicas. 🎹
+* **Amor por Pets:** Sou uma apaixonada por animais, especialmente por doguinhos, que trazem muita alegria e carinho para o dia a dia! 🐶
+
+<br></br>
+
+## Minhas Habilidades 🍒
+
+**Linguagens:** 
+<div style="display: inline_block"><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>
+ <br></br>
 </div>
-  
+
+**Frameworks/Bibliotecas:**
+<div style="display: inline_block"><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
+ <br></br>
+</div>
+
+**Ferramentas:** 
+<div style="display: inline_block"><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" alt="GITHUB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
+ <br></br>
+</div>
